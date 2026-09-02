@@ -4,7 +4,7 @@ Acompanhe a mim nessa jornada de aprendizado de novas linguagens e introdução 
 <br>
 
 - Estudante do IFSP Birigui 📖 - Técnico em Informática 👨‍💻
-- 1° ano de curso
+- 3° ano de curso
 - Aprendendo html, css e C++
 - Amor pelo BackEnd ❤️
 
